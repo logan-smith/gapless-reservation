@@ -10,6 +10,7 @@ Run with 'node camping.js'
 
 ## Input JSON
 The input JSON takes the form of:
+```
 {
   "search": {
     "startDate": "2018-06-04",
@@ -25,3 +26,4 @@ The input JSON takes the form of:
     {"campsiteId": 1, "startDate": "2018-06-01", "endDate": "2018-06-03"},
   ]
 }
+```
